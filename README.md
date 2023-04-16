@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @azrilnrr
 - 👀 I’m interested in Mobile Developer
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
+<!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me azrilnr280700@gmail.com
 
 <!---
